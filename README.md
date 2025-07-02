@@ -5,3 +5,4 @@
     Capítulo 2
 
 1. [x] Aula 11 Introdução do Módulo
+2. [x] Aula 12 Criando Projeto
